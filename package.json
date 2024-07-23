@@ -1,0 +1,19 @@
+{
+  "name": "gmessenger-server",
+  "version": "1.0.0",
+  "description": "Simple messaging app (Facebook based) - server in Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grzesieklagocki/GMessenger-Server.git"
+  },
+  "author": "Grzegorz Łagocki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grzesieklagocki/GMessenger-Server/issues"
+  },
+  "homepage": "https://github.com/grzesieklagocki/GMessenger-Server#readme"
+}
