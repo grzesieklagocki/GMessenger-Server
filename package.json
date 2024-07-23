@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/grzesieklagocki/GMessenger-Server/issues"
   },
-  "homepage": "https://github.com/grzesieklagocki/GMessenger-Server#readme"
+  "homepage": "https://github.com/grzesieklagocki/GMessenger-Server#readme",
+  "dependencies": {
+    "websocket": "^1.0.35"
+  }
 }
